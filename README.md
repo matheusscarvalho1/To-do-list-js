@@ -21,7 +21,7 @@ OBS: Quando passamos o mouse em cima de cada tarefa o botão de excluir tarefa a
 # Excluindo tarefas
 Ao passar o muse em cima da tarefa, basta clicar no 'X' a direita que a tarefa é excluída
 
-![image](https://user-images.githubusercontent.com/73304785/228598041-d22eb372-1e9f-453d-8d9d-564f423afdce.png)
+![image](https://user-images.githubusercontent.com/73304785/228599310-c65a9850-6de7-41a9-8f97-9bde7576abf1.png)
 
 
 # Tecnologias Utilizadas
