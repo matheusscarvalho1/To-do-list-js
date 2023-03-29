@@ -27,8 +27,10 @@ Ao passar o muse em cima da tarefa, basta clicar no 'X' a direita que a tarefa �
 # Tecnologias Utilizadas
 
 • HTML
+
 • CSS
-• JAVASCRIPT (JS)
+
+• JavaScript
 
 # Autor
 
@@ -37,5 +39,7 @@ Ao passar o muse em cima da tarefa, basta clicar no 'X' a direita que a tarefa �
 
 Linkedin: 
 https://www.linkedin.com/in/matheusscarvalho/
+
+
 E-mail:
 matheusdocarvalho@gmail.com
