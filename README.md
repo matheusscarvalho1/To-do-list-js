@@ -23,3 +23,16 @@ Ao passar o muse em cima da tarefa, basta clicar no 'X' a direita que a tarefa �
 
 ![image](https://user-images.githubusercontent.com/73304785/228598041-d22eb372-1e9f-453d-8d9d-564f423afdce.png)
 
+
+# Tecnologias Utilizadas
+
+• HTML
+• CSS
+• JAVASCRIPT (JS)
+
+# Autor
+
+<b>Matheus de Souza Carvalho</b>
+
+Linkedin: https://www.linkedin.com/in/matheusscarvalho/
+E-mail: matheusdocarvalho@gmail.com
