@@ -34,5 +34,8 @@ Ao passar o muse em cima da tarefa, basta clicar no 'X' a direita que a tarefa Ã
 
 <b>Matheus de Souza Carvalho</b>
 
-Linkedin: https://www.linkedin.com/in/matheusscarvalho/
-E-mail: matheusdocarvalho@gmail.com
+
+Linkedin: 
+https://www.linkedin.com/in/matheusscarvalho/
+E-mail:
+matheusdocarvalho@gmail.com
