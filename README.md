@@ -9,6 +9,7 @@ Layout simples, para apenas adicionar sua lista de afazeres e pressionar a tecla
 
 # Tarefas adicionadas
 Adicionando as tarefas
+
 ![image](https://user-images.githubusercontent.com/73304785/228594809-9f6047cf-cf0d-45b8-b8c7-b7c3da9ce26a.png)
 
 
