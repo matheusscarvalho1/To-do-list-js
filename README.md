@@ -3,6 +3,7 @@
 
 # Homepage
 Layout simples, para apenas adicionar sua lista de afazeres e pressionar a tecla 'Enter' para registrar
+
 ![image](https://user-images.githubusercontent.com/73304785/228594324-ffbe1dd3-dfb3-4aab-8573-16e92ca03d42.png)
 
 
